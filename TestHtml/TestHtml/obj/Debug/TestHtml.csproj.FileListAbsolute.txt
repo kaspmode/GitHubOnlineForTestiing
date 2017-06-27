@@ -1,0 +1,6 @@
+D:\לימודי תוכנה\לימודים C#\TestHtml\TestHtml\bin\TestHtml.dll.config
+D:\לימודי תוכנה\לימודים C#\TestHtml\TestHtml\bin\TestHtml.dll
+D:\לימודי תוכנה\לימודים C#\TestHtml\TestHtml\bin\TestHtml.pdb
+D:\לימודי תוכנה\לימודים C#\TestHtml\TestHtml\obj\Debug\TestHtml.csprojResolveAssemblyReference.cache
+D:\לימודי תוכנה\לימודים C#\TestHtml\TestHtml\obj\Debug\TestHtml.dll
+D:\לימודי תוכנה\לימודים C#\TestHtml\TestHtml\obj\Debug\TestHtml.pdb
